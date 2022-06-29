@@ -34,7 +34,6 @@ fn main() {
 
     // initialize loggers
     let app_name = "employee_report_generator";
-    println!("hello");
     let (config_params, log, diagnostics_log) = init_loggers(app_name);
     // process
     parameter_calls(&config_params, &log, &diagnostics_log);
