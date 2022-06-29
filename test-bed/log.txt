@@ -1,0 +1,9 @@
+Jun 29 11:58:57.180 INFO log_file: test-bed/log.txt
+Jun 29 11:58:57.180 INFO diagnostics_file: test-bed/diag.txt
+Jun 29 11:58:57.180 INFO log_level: info
+Jun 29 11:58:57.180 INFO employee_data_file: test-bed/emp.txt
+Jun 29 11:58:57.180 INFO department_data_file: test-bed/dept.xls
+Jun 29 11:58:57.180 INFO salary_data_file: test-bed/salary.xlsx
+Jun 29 11:58:57.180 INFO leave_data_file: test-bed/leave.xlsx
+Jun 29 11:58:57.180 INFO final_output_file: test-bed/summary.txt
+Jun 29 11:58:57.195 INFO Total time taken for execution: 16.336801ms
