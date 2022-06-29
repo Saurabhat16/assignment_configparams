@@ -1,0 +1,6 @@
+empid|empname|deptid|mobileno|email
+786|jai|2|9898989898|jai@gmail.com
+785|abhi|1|9898989898|abhi@gmail.com
+787|veer|2|9898989898|veer@gmail.com
+788|rahul|1|9898989898|rahul@gmail.com
+789|rajagopal|2|8989898989|raja@gmail.com
